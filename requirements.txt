@@ -1,0 +1,10 @@
+requests
+csv
+hashlib
+hmac
+pandas
+numpy
+matplotlib
+sklearn
+tensorflow
+
